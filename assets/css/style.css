@@ -91,3 +91,23 @@ Use [Google](https://www.google.com) or another search engine to research this.
 ---
 
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved. */
+
+/* This universal element style is TEMPORARY .*/
+* {
+    border: color red; width: 1;  /* THIS is temporary, but the font specification (subject to adjustment) is permanent. */
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16pt;
+    background-color: rgb(135, 125, 116);  /* DEFINITELY TEMPORARY!!! */
+    color:rgb(69, 66, 45);
+}
+
+header {
+    text-align: center;
+    margin: 5px;
+}
+
+footer {
+    margin: 30px;
+    text-align: center;
+    font-size: 8pt;
+}
